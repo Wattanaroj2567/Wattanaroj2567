@@ -1,0 +1,117 @@
+{
+  "$schema": "./profile.schema.json",
+  "profile": {
+    "name": "Wattanaroj Butdee",
+    "username": "Wattanaroj2567",
+    "headline": "Software Engineer Intern | Full-Stack Dev",
+    "affiliation": "Ubon Ratchathani University",
+    "location": "Ubon Ratchathani, Thailand",
+    "status": "Learning / Building / Shipping",
+    "about": [
+      "Fourth-year Data Science and Software Innovation student focused on building practical full-stack, mobile, and IoT systems.",
+      "I enjoy connecting backend services, real-time data, and user-facing applications to solve meaningful problems."
+    ]
+  },
+  "research": {
+    "primary": "Applied Software Engineering",
+    "direction": "Reliable real-time systems",
+    "themes": "Full-stack / IoT / applied AI",
+    "narrative": "I am interested in building reliable systems that connect backend services, real-time data, and intuitive applications. My work explores practical software engineering through IoT prototypes, mobile experiences, APIs, automation, and applied AI tools."
+  },
+  "focus": [
+    {
+      "name": "Full-Stack Development",
+      "description": "Backend APIs and web applications with Node.js, Express, Django, and Go."
+    },
+    {
+      "name": "IoT & Real-Time Systems",
+      "description": "Wearables, MQTT, Socket.IO, ESP32 devices, and real-time caregiver alerts."
+    },
+    {
+      "name": "Mobile Applications",
+      "description": "Practical user-facing applications built with React Native and Expo."
+    },
+    {
+      "name": "Applied AI & Tools",
+      "description": "AI, RAG experiments, automation, and developer workflows that solve real problems."
+    }
+  ],
+  "projects": [
+    {
+      "name": "FallHelp",
+      "url": "https://github.com/Wattanaroj2567/fallhelp",
+      "homepage": "",
+      "focus": "Wearable IoT and real-time alerts",
+      "summary": "A wearable fall-detection system connecting an ESP32 device, caregiver mobile app, backend API, database, and real-time alerts.",
+      "heroLabel": "IoT care system"
+    },
+    {
+      "name": "NotebookLM-Py",
+      "url": "https://github.com/Wattanaroj2567/notebooklm-py",
+      "homepage": "",
+      "focus": "AI automation and developer tools",
+      "summary": "A Python automation library for Google NotebookLM with an embedded MCP server and agentic workflows.",
+      "heroLabel": "AI automation"
+    },
+    {
+      "name": "Media Loader",
+      "url": "https://github.com/Wattanaroj2567/media-loader",
+      "homepage": "",
+      "focus": "Full-stack media processing",
+      "summary": "A rights-aware personal media downloader and converter built with Next.js, FastAPI, Python workers, and Supabase.",
+      "heroLabel": "Media platform"
+    },
+    {
+      "name": "Personal Website",
+      "url": "https://github.com/Wattanaroj2567/wattanaroj2567.github.io",
+      "homepage": "https://wattanaroj2567.github.io",
+      "focus": "Portfolio and web presence",
+      "summary": "A personal web page for presenting projects, skills, and professional work.",
+      "heroLabel": "Personal web"
+    }
+  ],
+  "techStack": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "Go",
+    "React",
+    "React Native",
+    "Expo",
+    "Node.js",
+    "Express",
+    "Django",
+    "PostgreSQL",
+    "Prisma ORM",
+    "MQTT",
+    "Socket.IO",
+    "ESP32",
+    "Arduino C++",
+    "Docker",
+    "Git/GitHub"
+  ],
+  "links": [
+    {
+      "label": "GitHub",
+      "value": "Wattanaroj2567",
+      "url": "https://github.com/Wattanaroj2567",
+      "logo": "github",
+      "color": "0B1220"
+    },
+    {
+      "label": "LinkedIn",
+      "value": "Profile",
+      "url": "https://www.linkedin.com/in/wattanaroj-butdee",
+      "logo": "linkedin",
+      "color": "0A66C2"
+    }
+  ],
+  "activity": {
+    "enabled": false,
+    "limit": 6
+  },
+  "appearance": {
+    "palette": "signal"
+  },
+  "footer": "Building practical software with real-time systems and applied AI."
+}
