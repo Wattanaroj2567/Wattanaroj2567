@@ -8,32 +8,32 @@
     "location": "Ubon Ratchathani, Thailand",
     "status": "Learning / Building / Shipping",
     "about": [
-      "Fourth-year Data Science and Software Innovation student focused on building practical full-stack, mobile, and IoT systems.",
-      "I enjoy connecting backend services, real-time data, and user-facing applications to solve meaningful problems."
+      "Fourth-year Data Science and Software Innovation student building FallHelp, a wearable IoT system for fall detection and caregiver alerts.",
+      "I work across embedded hardware, real-time backend services, databases, and mobile experiences to turn sensor data into useful safety workflows."
     ]
   },
   "research": {
-    "primary": "Applied Software Engineering",
-    "direction": "Reliable real-time systems",
-    "themes": "Full-stack / IoT / applied AI",
-    "narrative": "I am interested in building reliable systems that connect backend services, real-time data, and intuitive applications. My work explores practical software engineering through IoT prototypes, mobile experiences, APIs, automation, and applied AI tools."
+    "primary": "IoT & Real-Time Systems",
+    "direction": "Technology for safer care",
+    "themes": "Wearables / MQTT / mobile apps",
+    "narrative": "FallHelp is my senior project: a neck-worn ESP32 device detects possible falls, captures heart rate at the event, and connects to a caregiver application through MQTT, a backend API, PostgreSQL, Socket.IO, and Expo Push Notifications."
   },
   "focus": [
     {
-      "name": "Full-Stack Development",
-      "description": "Backend APIs and web applications with Node.js, Express, Django, and Go."
+      "name": "Wearable Fall Detection",
+      "description": "Threshold-based analysis of accelerometer and gyroscope data on an ESP32 device."
     },
     {
-      "name": "IoT & Real-Time Systems",
-      "description": "Wearables, MQTT, Socket.IO, ESP32 devices, and real-time caregiver alerts."
+      "name": "Real-Time Caregiver Alerts",
+      "description": "MQTT and Socket.IO event flows for confirmed falls, notifications, and alert acknowledgement."
     },
     {
-      "name": "Mobile Applications",
-      "description": "Practical user-facing applications built with React Native and Expo."
+      "name": "Caregiver Mobile Experience",
+      "description": "React Native and Expo dashboard for fall history, alerts, reports, and emergency contact actions."
     },
     {
-      "name": "Applied AI & Tools",
-      "description": "AI, RAG experiments, automation, and developer workflows that solve real problems."
+      "name": "End-to-End Integration",
+      "description": "Connecting firmware, backend API, PostgreSQL, push notifications, and admin operations."
     }
   ],
   "projects": [
@@ -41,54 +41,24 @@
       "name": "FallHelp",
       "url": "https://github.com/Wattanaroj2567/fallhelp",
       "homepage": "",
-      "focus": "Wearable IoT and real-time alerts",
-      "summary": "A wearable fall-detection system connecting an ESP32 device, caregiver mobile app, backend API, database, and real-time alerts.",
-      "heroLabel": "IoT care system"
-    },
-    {
-      "name": "NotebookLM-Py",
-      "url": "https://github.com/Wattanaroj2567/notebooklm-py",
-      "homepage": "",
-      "focus": "AI automation and developer tools",
-      "summary": "A Python automation library for Google NotebookLM with an embedded MCP server and agentic workflows.",
-      "heroLabel": "AI automation"
-    },
-    {
-      "name": "Media Loader",
-      "url": "https://github.com/Wattanaroj2567/media-loader",
-      "homepage": "",
-      "focus": "Full-stack media processing",
-      "summary": "A rights-aware personal media downloader and converter built with Next.js, FastAPI, Python workers, and Supabase.",
-      "heroLabel": "Media platform"
-    },
-    {
-      "name": "Personal Website",
-      "url": "https://github.com/Wattanaroj2567/wattanaroj2567.github.io",
-      "homepage": "https://wattanaroj2567.github.io",
-      "focus": "Portfolio and web presence",
-      "summary": "A personal web page for presenting projects, skills, and professional work.",
-      "heroLabel": "Personal web"
+      "focus": "Wearable IoT and real-time care",
+      "summary": "A senior-project prototype combining a neck-worn ESP32 fall detector, heart-rate capture, caregiver mobile app, backend API, and real-time alerts.",
+      "heroLabel": "Senior project"
     }
   ],
   "techStack": [
     "TypeScript",
-    "JavaScript",
-    "Python",
-    "Go",
-    "React",
     "React Native",
     "Expo",
     "Node.js",
     "Express",
-    "Django",
     "PostgreSQL",
     "Prisma ORM",
     "MQTT",
     "Socket.IO",
     "ESP32",
-    "Arduino C++",
-    "Docker",
-    "Git/GitHub"
+    "Arduino",
+    "C++"
   ],
   "links": [
     {
@@ -113,5 +83,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building practical software with real-time systems and applied AI."
+  "footer": "FallHelp — turning wearable sensor data into faster caregiver response."
 }
