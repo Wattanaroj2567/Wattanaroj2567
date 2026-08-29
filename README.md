@@ -26,22 +26,50 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp" height="42" alt="JavaScript, TypeScript, Python, Go and C++"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" width="42" height="42" alt="JavaScript">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="42" height="42" alt="TypeScript">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" width="42" height="42" alt="Python">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="42" height="42" alt="Go">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" width="42" height="42" alt="C++">
+    </td>
   </tr>
   <tr>
     <td><strong>Server &amp; data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,prisma" height="42" alt="Node.js, Express, Django, PostgreSQL, MySQL and Prisma"><br><sub>Go/Gin · REST APIs · Microservices</sub></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="42" height="42" alt="Node.js">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" width="42" height="42" alt="Express">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" width="42" height="42" alt="Django">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" width="42" height="42" alt="PostgreSQL">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" width="42" height="42" alt="MySQL">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/prisma.png" width="42" height="42" alt="Prisma"><br>
+      <sub>Go/Gin · REST APIs · Microservices</sub>
+    </td>
   </tr>
   <tr>
     <td><strong>Client</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,tailwind" height="42" alt="React Native and Tailwind CSS"><br><sub>React Native · Expo</sub></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" width="42" height="42" alt="React Native">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" width="42" height="42" alt="Expo">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" width="42" height="42" alt="Tailwind CSS">
+    </td>
   </tr>
   <tr>
     <td><strong>Embedded &amp; IoT</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=arduino" height="42" alt="Arduino"><br><sub>ESP32 · MQTT · Socket.IO</sub></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" width="42" height="42" alt="Arduino">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" width="42" height="42" alt="MQTT">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="42" height="42" alt="Socket.IO"><br>
+      <sub>ESP32 hardware</sub>
+    </td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=git,docker,postman,figma" height="42" alt="Git, Docker, Postman and Figma"></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" width="42" height="42" alt="Git">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="42" height="42" alt="Docker">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" width="42" height="42" alt="Postman">&nbsp;
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="42" height="42" alt="Figma">
+    </td>
   </tr>
 </table>
