@@ -30,15 +30,15 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
   </tr>
   <tr>
     <td><strong>Server &amp; data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,gin,postgres,mysql,prisma" height="42" alt="Node.js, Express, Django, Go Gin, PostgreSQL, MySQL and Prisma"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,mysql,prisma" height="42" alt="Node.js, Express, Django, PostgreSQL, MySQL and Prisma"><br><sub>Go/Gin · REST APIs · Microservices</sub></td>
   </tr>
   <tr>
     <td><strong>Client</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,expo,tailwind" height="42" alt="React Native, Expo and Tailwind CSS"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,tailwind" height="42" alt="React Native and Tailwind CSS"><br><sub>React Native · Expo</sub></td>
   </tr>
   <tr>
     <td><strong>Embedded &amp; IoT</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=esp32,arduino,mqtt,socketio" height="42" alt="ESP32, Arduino, MQTT and Socket.IO"></td>
+    <td><img src="https://skillicons.dev/icons?i=arduino" height="42" alt="Arduino"><br><sub>ESP32 · MQTT · Socket.IO</sub></td>
   </tr>
   <tr>
     <td><strong>Tools</strong></td>
