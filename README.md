@@ -58,4 +58,12 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
       <img src="https://skillicons.dev/icons?i=git,docker,postman,figma" height="42" alt="Git, Docker, Postman and Figma">
     </td>
   </tr>
+  <tr>
+    <td><strong>AI Coding</strong></td>
+    <td>
+      <img src="https://api.iconify.design/logos:openai-icon.svg" width="42" height="42" alt="ChatGPT / OpenAI">&nbsp;
+      <img src="https://api.iconify.design/logos:claude-icon.svg" width="42" height="42" alt="Claude">&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="42" height="42" alt="Google Antigravity">
+    </td>
+  </tr>
 </table>
