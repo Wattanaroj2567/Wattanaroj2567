@@ -21,16 +21,23 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
 
 → [View the FallHelp repository](https://github.com/Wattanaroj2567/fallhelp)
 
-## Technologies
+## Built with
 
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=111827">
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white">
-  <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white">
-  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
-</p>
+<table>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,cpp" height="42" alt="TypeScript and C++"></td>
+  </tr>
+  <tr>
+    <td><strong>Server &amp; data</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mqtt,socketio" height="42" alt="Node.js, Express, PostgreSQL, MQTT and Socket.IO"></td>
+  </tr>
+  <tr>
+    <td><strong>Client</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=react,expo" height="42" alt="React Native and Expo"></td>
+  </tr>
+  <tr>
+    <td><strong>Embedded &amp; IoT</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=esp32,arduino" height="42" alt="ESP32 and Arduino"></td>
+  </tr>
+</table>
