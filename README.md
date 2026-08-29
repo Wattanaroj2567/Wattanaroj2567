@@ -63,7 +63,7 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
     <td>
       <img src="https://api.iconify.design/logos:openai-icon.svg" width="42" height="42" alt="ChatGPT / OpenAI">&nbsp;
       <img src="https://api.iconify.design/logos:claude-icon.svg" width="42" height="42" alt="Claude">&nbsp;
-      <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="42" height="42" alt="Google Antigravity">
+      <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="42" height="42" alt="Google Antigravity">
     </td>
   </tr>
 </table>
