@@ -21,23 +21,27 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
 
 → [View the FallHelp repository](https://github.com/Wattanaroj2567/fallhelp)
 
-## Built with
+## Tech Stack
 
 <table>
   <tr>
     <td><strong>Languages</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,cpp" height="42" alt="TypeScript and C++"></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,python,go,cpp" height="42" alt="JavaScript, TypeScript, Python, Go and C++"></td>
   </tr>
   <tr>
     <td><strong>Server &amp; data</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mqtt,socketio" height="42" alt="Node.js, Express, PostgreSQL, MQTT and Socket.IO"></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,django,gin,postgres,mysql,prisma" height="42" alt="Node.js, Express, Django, Go Gin, PostgreSQL, MySQL and Prisma"></td>
   </tr>
   <tr>
     <td><strong>Client</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=react,expo" height="42" alt="React Native and Expo"></td>
+    <td><img src="https://skillicons.dev/icons?i=react,expo,tailwind" height="42" alt="React Native, Expo and Tailwind CSS"></td>
   </tr>
   <tr>
     <td><strong>Embedded &amp; IoT</strong></td>
-    <td><img src="https://skillicons.dev/icons?i=esp32,arduino" height="42" alt="ESP32 and Arduino"></td>
+    <td><img src="https://skillicons.dev/icons?i=esp32,arduino,mqtt,socketio" height="42" alt="ESP32, Arduino, MQTT and Socket.IO"></td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td><img src="https://skillicons.dev/icons?i=git,docker,postman,figma" height="42" alt="Git, Docker, Postman and Figma"></td>
   </tr>
 </table>
