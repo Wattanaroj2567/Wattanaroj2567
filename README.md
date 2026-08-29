@@ -5,11 +5,11 @@
 
 <p align="center">
   <picture>
-    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-a01b1cfc-mobile-dark.svg">
-    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-a01b1cfc-mobile-light.svg">
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-a01b1cfc-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-a01b1cfc-light.svg">
-    <img src="./assets/hero/agent-console-a01b1cfc-dark.svg" alt="Wattanaroj Butdee - Software Engineer Intern | Full-Stack & IoT" width="100%">
+    <source media="(max-width: 760px) and (prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-3f2700a4-mobile-dark.svg">
+    <source media="(max-width: 760px)" srcset="./assets/hero/agent-console-3f2700a4-mobile-light.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero/agent-console-3f2700a4-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero/agent-console-3f2700a4-light.svg">
+    <img src="./assets/hero/agent-console-3f2700a4-dark.svg" alt="Wattanaroj Butdee - Data Science & Software Innovation Student" width="100%">
   </picture>
 </p>
 
