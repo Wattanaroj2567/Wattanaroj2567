@@ -49,7 +49,8 @@ FallHelp is my senior project for safer, faster caregiver response. It connects 
       <img src="https://skillicons.dev/icons?i=arduino" height="42" alt="Arduino">&nbsp;
       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mqtt.png" width="42" height="42" alt="MQTT">&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" width="42" height="42" alt="Socket.IO"><br>
-      <sub>ESP32 hardware</sub>
+      <img src="https://freesvg.org/img/1666364456Esp32_devkitc_v4.png" width="58" height="34" alt="ESP32 DevKitC hardware"><br>
+      <sub>ESP32 DevKitC hardware</sub>
     </td>
   </tr>
   <tr>
